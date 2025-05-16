@@ -1,12 +1,33 @@
-## Hi there 👋
+# 쿡킹
+![쿡킹_로고](ttps://github.com/user-attachments/assets/78dc9510-3b65-45bf-97bb-f37d39744254)
 
-<!--
 
-**Here are some ideas to get you started:**
+# 프로젝트 요약
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br><br><br>
+## 기획 의도
+
+
+<br><br><br>
+
+## 기술 스택
+
+
+<br><br><br>
+
+## ERD
+![Cookking_ERD](https://github.com/user-attachments/assets/7af842d8-b7e4-4907-a705-c5cf503cb006)
+
+
+<br><br><br>
+
+## 시스템 요구사항 명세서
+
+<br><br><br>
+
+## 프로젝트 인원
+
+|![]()|![]()|![]()|![]()|
+|------|---|---|
+|채현후|홍성민|권택현|
+|<팀장><br>-FrontEnd|<팀원><br>-FrontEnd|<팀원><br>-BackEnd|
