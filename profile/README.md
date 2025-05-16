@@ -1,5 +1,5 @@
 # 쿡킹
-![쿡킹_로고](ttps://github.com/user-attachments/assets/78dc9510-3b65-45bf-97bb-f37d39744254)
+![쿡킹_로고](https://github.com/user-attachments/assets/78dc9510-3b65-45bf-97bb-f37d39744254)
 
 
 # 프로젝트 요약
@@ -27,7 +27,7 @@
 
 ## 프로젝트 인원
 
-|![]()|![]()|![]()|![]()|
+|![]()|![]()|![]()|
 |------|---|---|
 |채현후|홍성민|권택현|
 |<팀장><br>-FrontEnd|<팀원><br>-FrontEnd|<팀원><br>-BackEnd|
