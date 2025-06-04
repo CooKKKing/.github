@@ -13,7 +13,7 @@
 ## 🚩 개요
 - **프로젝트 이름** : CookKing  
 - **프로젝트 기간** : 2025.04.02 ~ 2025.05.01  
-- **배포 주소** : 
+- **배포 주소** : https://www.cookkking.com/
 
 <br><br>
 
@@ -58,7 +58,7 @@
 [Cookking-요구사항_정의서](https://docs.google.com/spreadsheets/d/1I9c54LodUJKi1B3isNZSlxxLfGQ1CkP495pvu_4wkRo/edit?gid=0#gid=0)
 <br><br><br>
 ## 📄 API 문서 (Swagger)
-[Cookking-API문서_Swagger](http://ec2-54-180-8-125.ap-northeast-2.compute.amazonaws.com:8080/swagger-ui/index.html#)
+[Cookking-API문서_Swagger](https://api.cookkking.com/swagger-ui/index.html#/)
 <br><br><br>
 ## 🧩 ERD
 ![Cookking_ERD](https://github.com/user-attachments/assets/7af842d8-b7e4-4907-a705-c5cf503cb006)
